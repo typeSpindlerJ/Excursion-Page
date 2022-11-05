@@ -1,1 +1,1 @@
-# excursion Final 1st class project for GERE program. 
+# Final 1st class project for GERE program. -excursion-
